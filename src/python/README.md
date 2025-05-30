@@ -28,4 +28,4 @@ See the [pipx documentation](https://pipxproject.github.io/pipx/docs/) for addit
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/python/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/python/devcontainer-template.json).  Add additional notes to a `NOTES.md`._

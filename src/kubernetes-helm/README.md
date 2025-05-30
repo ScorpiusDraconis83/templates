@@ -31,4 +31,4 @@ When configuring [Ingress](https://kubernetes.io/docs/concepts/services-networki
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/kubernetes-helm/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/kubernetes-helm/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
