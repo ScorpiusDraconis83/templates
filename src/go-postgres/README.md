@@ -7,7 +7,7 @@ Use and develop Go + Postgres applications. Includes appropriate runtime args, G
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | Go version: | string | 1.23-bookworm |
+| imageVariant | Go version: | string | 1.24-bookworm |
 
 This template references an image that was [pre-built](https://containers.dev/implementors/reference/#prebuilding) to automatically include needed devcontainer.json metadata.
 
@@ -64,4 +64,4 @@ RUN go get -x <github-link-for-package>
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/go-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/go-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
