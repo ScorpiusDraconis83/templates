@@ -59,4 +59,4 @@ To enable HTTPS in ASP.NET, you can export a copy of your local dev certificate.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/dotnet/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/dotnet/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
