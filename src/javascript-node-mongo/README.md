@@ -48,4 +48,4 @@ The `ports` property in `docker-compose.yml` [publishes](https://docs.docker.com
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/javascript-node-mongo/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/javascript-node-mongo/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
