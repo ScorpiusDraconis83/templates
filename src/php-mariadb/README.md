@@ -7,7 +7,7 @@ Develop PHP applications with MariaDB (MySQL Compatible).
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | PHP version (use -bookworm, -bullseye variants on local arm64/Apple Silicon): | string | 8.4-bookworm |
+| imageVariant | PHP version (use -bookworm, -bullseye variants on local arm64/Apple Silicon): | string | 8.2-bookworm |
 
 This template references an image that was [pre-built](https://containers.dev/implementors/reference/#prebuilding) to automatically include needed devcontainer.json metadata.
 
@@ -74,4 +74,4 @@ sudo chmod a+x "$(pwd)" && sudo rm -rf /var/www/html && sudo ln -s "$(pwd)" /var
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/php-mariadb/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/php-mariadb/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
