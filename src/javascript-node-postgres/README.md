@@ -7,7 +7,7 @@ Develop applications in Node.js and PostgreSQL. Includes Node.js, eslint, and ya
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | Node.js version (use -bookworm, -bullseye variants on local arm64/Apple Silicon): | string | 22-bookworm |
+| imageVariant | Node.js version (use -bookworm, -bullseye variants on local arm64/Apple Silicon): | string | 24-bookworm |
 
 This template references an image that was [pre-built](https://containers.dev/implementors/reference/#prebuilding) to automatically include needed devcontainer.json metadata.
 
@@ -47,4 +47,4 @@ The `ports` property in `docker-compose.yml` [publishes](https://docs.docker.com
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/javascript-node-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/javascript-node-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
