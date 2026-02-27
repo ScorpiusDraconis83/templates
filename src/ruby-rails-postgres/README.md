@@ -7,7 +7,7 @@ Develop Ruby on Rails applications with Postgres. Includes a Rails application c
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | Ruby version (use -trixie, -bookworm, -bullseye variants on local arm64/Apple Silicon) : | string |4-trixie |
+| imageVariant | Ruby version (use - trixie, -bookworm, -bullseye variants on local arm64/Apple Silicon): | string | 4-trixie |
 
 This template references an image that was [pre-built](https://containers.dev/implementors/reference/#prebuilding) to automatically include needed devcontainer.json metadata.
 
@@ -63,4 +63,4 @@ The `ports` property in `docker-compose.yml` [publishes](https://docs.docker.com
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/ruby-rails-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/ruby-rails-postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
