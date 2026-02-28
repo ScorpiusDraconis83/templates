@@ -7,7 +7,7 @@ Develop Java applications. Includes the JDK and Java extensions.
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | Java version (use -bookworm, or -bullseye variants on local arm64/Apple Silicon): | string | 21-bullseye |
+| imageVariant | Java version (use -trixie, or -bookworm variants on local arm64/Apple Silicon): | string | 25-trixie |
 | installMaven | Install Maven, a management tool for Java | boolean | false |
 | installGradle | Install Gradle, a build automation tool for multi-language software development | boolean | false |
 
@@ -19,4 +19,4 @@ This template references an image that was [pre-built](https://containers.dev/im
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/java/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/java/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
