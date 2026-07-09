@@ -7,7 +7,7 @@ Develop applications with Python 3 and PostgreSQL. Includes a Python application
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | Python version (use -bookworm, or -bullseye variants on local arm64/Apple Silicon): | string | 3.11-bullseye |
+| imageVariant | Python version (use -trixie, -bookworm, or -bullseye variants on local arm64/Apple Silicon): | string | 3.14-trixie |
 
 This template references an image that was [pre-built](https://containers.dev/implementors/reference/#prebuilding) to automatically include needed devcontainer.json metadata.
 
@@ -63,4 +63,4 @@ The `ports` property in `docker-compose.yml` [publishes](https://docs.docker.com
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/postgres/devcontainer-template.json).  Add additional notes to a `NOTES.md`._

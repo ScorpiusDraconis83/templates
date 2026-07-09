@@ -1,5 +1,5 @@
 
-# C++ (cpp)
+# cpp
 
 Develop C++ applications on Linux. Includes Debian C++ build tools.
 
@@ -7,7 +7,7 @@ Develop C++ applications on Linux. Includes Debian C++ build tools.
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | Debian / Ubuntu version (use debian12, debian11, ubuntu24.04, and ubuntu22.04 on local arm64/Apple Silicon): | string | debian12 |
+| imageVariant | Debian / Ubuntu version (use Debian 13, Debian 12, Ubuntu 24.04, and Ubuntu 22.04 on local arm64/Apple Silicon): | string | debian13 |
 | reinstallCmakeVersionFromSource | Install CMake version different from what base image has already installed. | string | none |
 
 This template references an image that was [pre-built](https://containers.dev/implementors/reference/#prebuilding) to automatically include needed devcontainer.json metadata.
@@ -34,4 +34,4 @@ git pull --ff-only
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/cpp/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/cpp/devcontainer-template.json).  Add additional notes to a `NOTES.md`._

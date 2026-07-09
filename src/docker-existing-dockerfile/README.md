@@ -1,7 +1,7 @@
 
 # Existing Dockerfile (docker-existing-dockerfile)
 
-Sample illustrating reuse of an existing Dockefile.
+Sample illustrating reuse of an existing Dockerfile.
 
 
 
@@ -9,4 +9,4 @@ Sample illustrating reuse of an existing Dockefile.
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/docker-existing-dockerfile/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/ScorpiusDraconis83/templates/blob/main/src/docker-existing-dockerfile/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
